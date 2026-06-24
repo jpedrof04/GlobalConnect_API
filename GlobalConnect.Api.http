@@ -1,0 +1,6 @@
+@GlobalConnect.Api_HostAddress = http://localhost:5178
+
+GET {{GlobalConnect.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
